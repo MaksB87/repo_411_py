@@ -11,3 +11,11 @@ print(type(set1))
 
 for i in list1:
     print(i)
+
+
+def list_cicle(l):
+    for i in l:
+        print(i, end=";")
+
+list2=['Имя',"Фамилия","Отчество","Дата рождения"]
+list_cicle(list2)
