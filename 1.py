@@ -19,3 +19,11 @@ def list_cicle(l):
 
 list2=['Имя',"Фамилия","Отчество","Дата рождения"]
 list_cicle(list2)
+print()
+a=int(input())
+if a%2==0:
+    print(a**2)
+else:
+    a+=1
+    print(a)
+
