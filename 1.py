@@ -27,3 +27,4 @@ else:
     a+=1
     print(a)
 
+print('New_vetka')
