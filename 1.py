@@ -9,4 +9,3 @@ tuple1=(1,2,3,4,5)
 set1={1,2,3,4}
 print(type(set1))
 
-a=1
